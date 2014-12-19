@@ -1,8 +1,6 @@
 # Ruby on Rails Tutorial: "hello, world!"
-
-This is the first application for the
-[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+Just my first Ruby "hello world" app as I've begun learning Ruby... 
+nothing much to see here unless you want to see a web-page with "hello world!"
 
 Process of Creation
 1) rails new (created default app)
